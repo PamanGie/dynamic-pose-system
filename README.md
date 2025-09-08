@@ -252,37 +252,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PyTorch** - Deep learning backend
 - **Tkinter** - GUI framework
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/dynamic-pose-system/issues) page
-2. Create a new issue with detailed description
-3. Include error messages and system information
-
-## 🔮 Future Development
-
-- [ ] Mobile app for annotation
-- [ ] Web-based interface
-- [ ] 3D pose estimation support
-- [ ] Multi-person detection
-- [ ] Temporal analysis features
-- [ ] Cloud deployment options
-
-## 📈 Roadmap
-
-### Version 2.0
-- Enhanced UI/UX for annotator
-- Batch processing capabilities
-- Advanced visualization options
-
-### Version 3.0
-- Real-time collaboration features
-- Cloud-based training
-- Mobile deployment tools
-
 ---
 
-**Made with ❤️ for the computer vision community**
+**Brought You By from HPC Lab of Tunghai University - Made with ❤️ for the computer vision community**
 
 *Star ⭐ this repo if you find it useful!*
