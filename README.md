@@ -497,6 +497,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Brought You By from HPC Lab of Tunghai University - Made with ❤️ for the computer vision community**
+## 🏛️ University Acknowledgments
+
+**Brought to you by:**
+- **HPC Lab** - Tunghai University
+- **Institut Informatika dan Bisnis Darmajaya Lab**
+
+**Made with ❤️ for the computer vision community**
+
+*Star ⭐ this repo if you find it useful!*
 
 *Star ⭐ this repo if you find it useful!*
