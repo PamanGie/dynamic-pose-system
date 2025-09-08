@@ -5,7 +5,7 @@ A comprehensive system for creating custom pose datasets and performing real-tim
 ## 🎥 Demo Videos
 
 ### Pose Annotator Demo
-[![Annotator Demo](https://img.youtube.com/vi/59HM-KuoeJw/maxresdefault.jpg)](https://youtu.be/59HM-KuoeJw)
+[![Annotator Demo](https://img.youtube.com/vi/59HM-KuoeJw/maxresdefault.jpg)]([https://youtu.be/59HM-KuoeJw](https://youtu.be/59HM-KuoeJw))
 
 ### Custom Inference Demo  
 [![Inference Demo](https://img.youtube.com/vi/k80OHvJaKlk/maxresdefault.jpg)](https://youtu.be/k80OHvJaKlk)
