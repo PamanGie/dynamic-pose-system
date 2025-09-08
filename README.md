@@ -2,6 +2,14 @@
 
 A comprehensive system for creating custom pose datasets and performing real-time pose detection with dynamic keypoint configurations and custom skeleton visualization.
 
+## 🎥 Demo Videos
+
+### Pose Annotator Demo
+📺 [Watch Annotator Demo](https://youtu.be/59HM-KuoeJw)
+
+### Custom Inference Demo  
+📺 [Watch Inference Demo](https://youtu.be/k80OHvJaKlk)
+
 ## 🌟 Features
 
 ### 📝 Dynamic Pose Annotator
