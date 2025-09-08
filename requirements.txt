@@ -1,0 +1,43 @@
+# Dynamic Custom Keypoint Pose Annotation & Inference System
+# Requirements file for Python dependencies
+
+# Core deep learning and computer vision
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+
+# Image processing and GUI
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# GUI framework for annotator
+tkinter  # Usually included with Python, but listed for completeness
+
+# Data handling and utilities
+json  # Built-in Python module
+os    # Built-in Python module
+math  # Built-in Python module
+
+# Optional: For enhanced functionality
+matplotlib>=3.7.0  # For plotting training curves and visualizations
+tqdm>=4.65.0       # For progress bars during processing
+
+# Optional: For video codec support
+opencv-contrib-python>=4.8.0  # Enhanced OpenCV with additional codecs
+
+# Optional: For CUDA support (if using GPU)
+# Uncomment the appropriate line based on your CUDA version:
+# torch-audio  # For additional PyTorch audio processing
+# torchaudio   # Audio processing capabilities
+
+# Development and testing (optional)
+# pytest>=7.0.0      # For running tests
+# black>=23.0.0       # Code formatting
+# flake8>=6.0.0       # Code linting
+
+# Note: 
+# - tkinter is usually included with Python installations
+# - json, os, math are built-in Python modules
+# - For GPU acceleration, ensure you have appropriate CUDA drivers installed
+# - Some OpenCV installations may require additional codec packages on Linux systems
